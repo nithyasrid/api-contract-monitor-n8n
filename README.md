@@ -3,8 +3,10 @@
 # API Contract Monitor
 
 > An n8n-based workflow that validates REST API responses against an expected contract and alerts developers when required fields are missing.
+
+
 ##DEMO
-> https://github.com/user-attachments/assets/813c9351-77e9-4d41-adb0-c306b3075682
+https://github.com/user-attachments/assets/813c9351-77e9-4d41-adb0-c306b3075682
  
 
 ## Overview
