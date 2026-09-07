@@ -1,8 +1,5 @@
-Yes. Let's make it **clean, short, professional, and exactly match the workflow you built** — no future enhancements, no unnecessary theory, no extra sections.
 
-Copy this entire content into `README.md`:
 
-````markdown
 # API Contract Monitor
 
 > An n8n-based workflow that validates REST API responses against an expected contract and alerts developers when required fields are missing.
